@@ -1,4 +1,4 @@
-# MBF-Gmail
+# Retas-gmail
 Alat peretas gmail dengan metod  Multi Bruce Force pass.txt
 ### Gm4il-Hack
 
@@ -11,7 +11,7 @@ Skrip python ### untuk brute force Hack gmail
 ### git clone 
 'https: // github.com/paulumi/MBF-Gmail .git'
     ![20190921_230944](https://user-images.githubusercontent.com/47181365/65375979-0ca02280-dcc5-11e9-936e-61451512e600.jpg)
-### cd MBF-Gmail
+### cd Retas-gmail
 
 ### chmod + x *
 
